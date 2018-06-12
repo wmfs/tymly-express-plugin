@@ -6,7 +6,7 @@ const PORT = 3003
 const jwt = require('jsonwebtoken')
 const request = require('request')
 const expect = require('chai').expect
-const tymly = require('tymly')
+const tymly = require('@wmfs/tymly')
 const path = require('path')
 const Buffer = require('safe-buffer').Buffer
 
@@ -58,8 +58,8 @@ describe('Simple Express tests', function () {
           path.resolve(__dirname, './fixtures/plugins/cats-plugin'),
           path.resolve(__dirname, './fixtures/plugins/endpoint-plugin'),
           path.resolve(__dirname, '../node_modules/tymly-test-helpers/plugins/allow-everything-rbac-plugin'),
-          require.resolve('tymly-solr-plugin'),
-          require.resolve('tymly-users-plugin')
+          require.resolve('@wmfs/tymly-solr-plugin'),
+          require.resolve('@wmfs/tymly-users-plugin')
         ],
 
         blueprintPaths: [

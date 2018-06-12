@@ -1,8 +1,21 @@
 {
-  "name": "tymly-express-plugin",
+  "name": "@wmfs/tymly-express-plugin",
+  "version": "0.0.0-semantically-released",
   "description": "Exposes the Tymly framework via an Express.js web app.",
-  "version": "0.0.13",
-  "author": "Tim Needham",
+  "homepage": "https://github.com/wmfs/tymly-express-plugin#readme",
+  "author": "West Midlands Fire Service",
+  "keywords": [
+    "tymly",
+    "express"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wmfs/tymly-express-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wmfs/tymly-express-plugin/issues"
+  },
   "main": "./lib/index.js",
   "dependencies": {
     "body-parser": "1.18.3",
@@ -21,24 +34,30 @@
   },
   "devDependencies": {
     "chai": "4.1.2",
+    "codecov": "3.0.2",
+    "cz-conventional-changelog": "2.1.0",
     "mocha": "5.2.0",
+    "nyc": "12.0.2",
     "safe-buffer": "5.1.2",
+    "semantic-release": "^15.5.0",
     "standard": "11.0.1",
-    "tymly": "^0.0.17",
-    "tymly-solr-plugin": "^0.0.6",
-    "tymly-users-plugin": "^0.0.3",
-    "tymly-test-helpers": "0.0.1"
+    "@wmfs/tymly": "1.0.1",
+    "@wmfs/tymly-solr-plugin": "1.0.0",
+    "@wmfs/tymly-users-plugin": "1.0.0",
+    "@wmfs/tymly-test-helpers": "1.0.0"
   },
   "scripts": {
     "lint": "standard",
-    "test": "standard && mocha"
+    "test": "nyc mocha && standard",
+    "coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/wmfs/tymly"
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   },
-  "bugs": {
-    "url": "https://github.com/wmfs/tymly/issues"
+  "publishConfig": {
+    "access": "public"
   }
 }
