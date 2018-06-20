@@ -6,6 +6,7 @@
   "author": "West Midlands Fire Service",
   "keywords": [
     "tymly",
+    "plugin",
     "express"
   ],
   "license": "MIT",
