@@ -45,7 +45,7 @@
     "@wmfs/tymly": "1.3.0",
     "@wmfs/tymly-solr-plugin": "1.0.5",
     "@wmfs/tymly-users-plugin": "1.0.10",
-    "@wmfs/tymly-test-helpers": "1.0.0"
+    "@wmfs/tymly-test-helpers": "1.0.1"
   },
   "scripts": {
     "lint": "standard",
