@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.1.0...v1.2.0) (2018-07-22)
+
+
+### 🛠 Builds
+
+* **deps:** update helmet requirement to 3.13.0 ([84218c5](https://github.com/wmfs/tymly-express-plugin/commit/84218c5))
+
 # [1.1.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.0.27...v1.1.0) (2018-07-20)
 
 
