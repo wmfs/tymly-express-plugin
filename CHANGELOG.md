@@ -1,3 +1,32 @@
+## [1.2.1](https://github.com/wmfs/tymly-express-plugin/compare/v1.2.0...v1.2.1) (2018-08-08)
+
+
+### 🐛 Bug Fixes
+
+* quick fix for submitting form and passing on user ID ([aba1600](https://github.com/wmfs/tymly-express-plugin/commit/aba1600))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.14.0 to 1.15.0 ([04fa6d8](https://github.com/wmfs/tymly-express-plugin/commit/04fa6d8))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.15.0 to 1.15.1 ([01ededd](https://github.com/wmfs/tymly-express-plugin/commit/01ededd))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement to 1.12.0 ([ac79ea1](https://github.com/wmfs/tymly-express-plugin/commit/ac79ea1))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement to 1.12.1 ([80d6fab](https://github.com/wmfs/tymly-express-plugin/commit/80d6fab))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement to 1.13.0 ([fc1df2a](https://github.com/wmfs/tymly-express-plugin/commit/fc1df2a))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement to 1.13.1 ([2e96d1e](https://github.com/wmfs/tymly-express-plugin/commit/2e96d1e))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement to 1.14.0 ([10f6a52](https://github.com/wmfs/tymly-express-plugin/commit/10f6a52))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-test-helpers requirement to 1.1.0 ([af7c939](https://github.com/wmfs/tymly-express-plugin/commit/af7c939))
+* **deps-dev:** update semantic-release requirement from 15.9.3 to 15.9.5 ([39d3011](https://github.com/wmfs/tymly-express-plugin/commit/39d3011))
+* **deps-dev:** update semantic-release requirement to 15.9.1 ([7aa97f1](https://github.com/wmfs/tymly-express-plugin/commit/7aa97f1))
+* **deps-dev:** update semantic-release requirement to 15.9.2 ([6d1887b](https://github.com/wmfs/tymly-express-plugin/commit/6d1887b))
+* **deps-dev:** update semantic-release requirement to 15.9.3 ([5f01692](https://github.com/wmfs/tymly-express-plugin/commit/5f01692))
+
+
+### 🚨 Tests
+
+* correct page to test-helper plugin ([110ec34](https://github.com/wmfs/tymly-express-plugin/commit/110ec34))
+* Correct sendTaskHeartbeat call ([e59bbe0](https://github.com/wmfs/tymly-express-plugin/commit/e59bbe0))
+
 # [1.2.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.1.0...v1.2.0) (2018-07-22)
 
 
