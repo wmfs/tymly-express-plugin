@@ -46,7 +46,7 @@
     "@semantic-release/changelog": "3.0.0",
     "@semantic-release/git": "7.0.1",
     "@wmfs/tymly": "1.15.2",
-    "@wmfs/tymly-solr-plugin": "1.0.12",
+    "@wmfs/tymly-solr-plugin": "1.0.13",
     "@wmfs/tymly-users-plugin": "1.1.10",
     "@wmfs/tymly-test-helpers": "1.1.0"
   },
