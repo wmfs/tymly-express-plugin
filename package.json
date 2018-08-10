@@ -29,7 +29,7 @@
     "helmet": "3.13.0",
     "jsonwebtoken": "8.3.0",
     "lodash": "4.17.10",
-    "request": "2.87.0",
+    "request": "2.88.0",
     "request-promise-native": "1.0.5",
     "sprintf": "0.1.5"
   },
