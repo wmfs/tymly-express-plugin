@@ -1,3 +1,13 @@
+# [1.3.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.2.1...v1.3.0) (2018-08-10)
+
+
+### 🛠 Builds
+
+* **deps:** update request requirement from 2.87.0 to 2.88.0 ([1bcad2a](https://github.com/wmfs/tymly-express-plugin/commit/1bcad2a))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.15.1 to 1.15.2 ([aa21e6b](https://github.com/wmfs/tymly-express-plugin/commit/aa21e6b))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-solr-plugin requirement from 1.0.12 to 1.0.13 ([bafc474](https://github.com/wmfs/tymly-express-plugin/commit/bafc474))
+* **deps-dev:** update semantic-release requirement from 15.9.5 to 15.9.6 ([211942f](https://github.com/wmfs/tymly-express-plugin/commit/211942f))
+
 ## [1.2.1](https://github.com/wmfs/tymly-express-plugin/compare/v1.2.0...v1.2.1) (2018-08-08)
 
 
