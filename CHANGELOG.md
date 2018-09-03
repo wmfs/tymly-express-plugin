@@ -1,3 +1,26 @@
+## [1.3.1](https://github.com/wmfs/tymly-express-plugin/compare/v1.3.0...v1.3.1) (2018-09-03)
+
+
+### 🐛 Bug Fixes
+
+* catch error on request ([8f1b724](https://github.com/wmfs/tymly-express-plugin/commit/8f1b724))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement from 7.0.1 to 7.0.2 ([2192aae](https://github.com/wmfs/tymly-express-plugin/commit/2192aae))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement from 7.0.2 to 7.0.3 ([ad3d2c6](https://github.com/wmfs/tymly-express-plugin/commit/ad3d2c6))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.15.2 to 1.16.0 ([7532dc9](https://github.com/wmfs/tymly-express-plugin/commit/7532dc9))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.16.0 to 1.16.1 ([158874f](https://github.com/wmfs/tymly-express-plugin/commit/158874f))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.16.1 to 1.16.2 ([e39ca99](https://github.com/wmfs/tymly-express-plugin/commit/e39ca99))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-solr-plugin requirement from 1.0.13 to 1.1.0 ([0c58d46](https://github.com/wmfs/tymly-express-plugin/commit/0c58d46))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-solr-plugin requirement from 1.1.0 to 1.1.1 ([0268aac](https://github.com/wmfs/tymly-express-plugin/commit/0268aac))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-users-plugin requirement from 1.1.10 to 1.1.11 ([434bace](https://github.com/wmfs/tymly-express-plugin/commit/434bace))
+* **deps-dev:** update semantic-release requirement from 15.9.6 to 15.9.7 ([9ca8857](https://github.com/wmfs/tymly-express-plugin/commit/9ca8857))
+* **deps-dev:** update semantic-release requirement from 15.9.7 to 15.9.8 ([1b8de28](https://github.com/wmfs/tymly-express-plugin/commit/1b8de28))
+* **deps-dev:** update semantic-release requirement from 15.9.8 to 15.9.9 ([9b45ae9](https://github.com/wmfs/tymly-express-plugin/commit/9b45ae9))
+* **deps-dev:** update semantic-release requirement from 15.9.9 to 15.9.11 ([be97bef](https://github.com/wmfs/tymly-express-plugin/commit/be97bef))
+
 # [1.3.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.2.1...v1.3.0) (2018-08-10)
 
 
