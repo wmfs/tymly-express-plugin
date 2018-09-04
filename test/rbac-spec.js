@@ -19,7 +19,9 @@ describe('RBAC tests', function () {
   it('should get the ACL service for testing purposes', function (done) {
     tymly.boot(
       {
-        pluginPaths: [],
+        pluginPaths: [
+          require.resolve('@wmfs/tymly-rbac-plugin')
+        ],
         blueprintPaths: [
           path.resolve(__dirname, './fixtures/blueprints/rbac-website-blueprint')
         ],
