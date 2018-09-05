@@ -38,7 +38,7 @@ describe('Simple Express tests', function () {
   it('should create a usable admin token for Dave', () => {
     adminToken = jwt.sign(
       {},
-      new Buffer(secret, 'base64'),
+      Buffer.from(secret, 'base64'),
       {
         subject: 'Dave',
         audience: audience
