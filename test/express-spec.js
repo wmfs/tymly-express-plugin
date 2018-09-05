@@ -57,7 +57,7 @@ describe('Simple Express tests', function () {
           path.resolve(__dirname, './../lib'),
           path.resolve(__dirname, './fixtures/plugins/cats-plugin'),
           path.resolve(__dirname, './fixtures/plugins/endpoint-plugin'),
-          require.resolve('@wmfs/tymly-test-helpers/plugins/allow-everything-rbac-plugin'),
+          require.resolve('@wmfs/tymly-rbac-plugin'),
           require.resolve('@wmfs/tymly-solr-plugin'),
           require.resolve('@wmfs/tymly-users-plugin')
         ],
@@ -418,7 +418,8 @@ describe('Simple Express tests', function () {
       {},
       GET_FROM_API_STATE_MACHINE,
       {
-        sendResponse: 'COMPLETE'
+        sendResponse: 'COMPLETE',
+        userId: 'Dave'
       },
       (err, executionDescription) => {
         expect(err).to.eql(null)
