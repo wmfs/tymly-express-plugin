@@ -116,7 +116,7 @@ describe('Simple Express tests', function () {
         method: 'POST',
         json: {
           stateMachineName: 'tymlyTest_cat_1_0',
-          data: {petName: 'Rupert'}
+          data: { petName: 'Rupert' }
         }
       },
       (err, res, body) => {

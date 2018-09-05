@@ -35,7 +35,7 @@ describe('RBAC tests', function () {
           },
 
           caches: {
-            userMemberships: {max: 500}
+            userMemberships: { max: 500 }
           }
         }
 
@@ -102,7 +102,7 @@ describe('RBAC tests', function () {
     expect(
       rbac.checkRoleAuthorization(
         'molly', // userId
-        {userId: 'molly'}, // ctx
+        { userId: 'molly' }, // ctx
         [], // roles
         'stateMachine', // resourceType
         'tymlyTest_updatePost_1_0', // resourceName
