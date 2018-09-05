@@ -1,3 +1,24 @@
+## [1.3.2](https://github.com/wmfs/tymly-express-plugin/compare/v1.3.1...v1.3.2) (2018-09-05)
+
+
+### 🐛 Bug Fixes
+
+* Pass userId through when calling SendTaskHeartbeat ([b8764a4](https://github.com/wmfs/tymly-express-plugin/commit/b8764a4))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-users-plugin requirement from 1.1.11 to 1.2.0 ([58a4cfd](https://github.com/wmfs/tymly-express-plugin/commit/58a4cfd))
+* **deps-dev:** update codecov requirement from 3.0.4 to 3.1.0 ([765f9bb](https://github.com/wmfs/tymly-express-plugin/commit/765f9bb))
+* **deps-dev:** update semantic-release requirement from 15.9.11 to 15.9.12 ([535b53d](https://github.com/wmfs/tymly-express-plugin/commit/535b53d))
+* **deps-dev:** update tymly to 1.21.0, add rbac-plugin, remove test-helpers ([b5f21a1](https://github.com/wmfs/tymly-express-plugin/commit/b5f21a1))
+
+
+### 🚨 Tests
+
+* Pull in RBAC plugin to get tests running again ([11d72da](https://github.com/wmfs/tymly-express-plugin/commit/11d72da))
+* Switch to RBAC service rather than test dummy ([7754d7e](https://github.com/wmfs/tymly-express-plugin/commit/7754d7e))
+
 ## [1.3.1](https://github.com/wmfs/tymly-express-plugin/compare/v1.3.0...v1.3.1) (2018-09-03)
 
 
