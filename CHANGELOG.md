@@ -1,3 +1,20 @@
+## [1.3.3](https://github.com/wmfs/tymly-express-plugin/compare/v1.3.2...v1.3.3) (2018-09-05)
+
+
+### 🐛 Bug Fixes
+
+* **build-deps:** Move to standard 12.0.1, fix deprecation warnings, replacing new Buffer with Buffer ([e41dba6](https://github.com/wmfs/tymly-express-plugin/commit/e41dba6))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update nyc requirement from 12.0.2 to 13.0.1 ([6fe9767](https://github.com/wmfs/tymly-express-plugin/commit/6fe9767))
+
+
+### 💎 Styles
+
+* Whitespace fixes ([ea78800](https://github.com/wmfs/tymly-express-plugin/commit/ea78800))
+
 ## [1.3.2](https://github.com/wmfs/tymly-express-plugin/compare/v1.3.1...v1.3.2) (2018-09-05)
 
 
