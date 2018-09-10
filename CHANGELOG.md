@@ -1,3 +1,19 @@
+# [1.4.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.3.3...v1.4.0) (2018-09-10)
+
+
+### ✨ Features
+
+* added revivification action ([2d2c270](https://github.com/wmfs/tymly-express-plugin/commit/2d2c270))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.21.0 to 1.22.0 ([fc652d7](https://github.com/wmfs/tymly-express-plugin/commit/fc652d7))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.22.0 to 1.23.0 ([7ae2979](https://github.com/wmfs/tymly-express-plugin/commit/7ae2979))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-users-plugin requirement ([b692e9f](https://github.com/wmfs/tymly-express-plugin/commit/b692e9f))
+* **deps-dev:** update semantic-release requirement ([4d71038](https://github.com/wmfs/tymly-express-plugin/commit/4d71038))
+* **deps-dev:** update semantic-release requirement ([632b30e](https://github.com/wmfs/tymly-express-plugin/commit/632b30e))
+
 ## [1.3.3](https://github.com/wmfs/tymly-express-plugin/compare/v1.3.2...v1.3.3) (2018-09-05)
 
 
