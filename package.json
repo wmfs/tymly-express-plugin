@@ -30,7 +30,6 @@
     "jsonwebtoken": "8.3.0",
     "lodash": "4.17.10",
     "request": "2.88.0",
-    "request-promise-native": "1.0.5",
     "sprintf": "0.1.5"
   },
   "devDependencies": {
@@ -38,6 +37,7 @@
     "@semantic-release/git": "7.0.3",
     "@wmfs/tymly": "1.26.1",
     "@wmfs/tymly-rbac-plugin": "1.0.0",
+    "@wmfs/tymly-rest-client-plugin": "1.0.0",
     "@wmfs/tymly-solr-plugin": "1.2.0",
     "@wmfs/tymly-users-plugin": "1.7.0",
     "chai": "4.1.2",

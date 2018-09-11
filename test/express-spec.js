@@ -60,7 +60,8 @@ describe('Simple Express tests', function () {
             path.resolve(__dirname, './fixtures/plugins/endpoint-plugin'),
             require.resolve('@wmfs/tymly-rbac-plugin'),
             require.resolve('@wmfs/tymly-solr-plugin'),
-            require.resolve('@wmfs/tymly-users-plugin')
+            require.resolve('@wmfs/tymly-users-plugin'),
+            require.resolve('@wmfs/tymly-rest-client-plugin')
           ],
 
           blueprintPaths: [

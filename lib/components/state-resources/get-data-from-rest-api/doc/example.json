@@ -1,7 +1,0 @@
-{
-  "GetDataFromRestApi": {
-    "Type": "Task",
-    "Resource": "module:getDataFromRestApi",
-    "InputPath": "$.getDataFromRestApi"
-  }
-}
