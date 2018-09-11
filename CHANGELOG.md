@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.7.0...v1.8.0) (2018-09-11)
+
+
+### ✨ Features
+
+* Move rest-client state resource to its own plugin ([7284966](https://github.com/wmfs/tymly-express-plugin/commit/7284966))
+
 # [1.7.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.6.0...v1.7.0) (2018-09-11)
 
 
