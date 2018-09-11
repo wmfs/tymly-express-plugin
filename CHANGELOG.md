@@ -1,3 +1,11 @@
+# [1.7.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.6.0...v1.7.0) (2018-09-11)
+
+
+### 🛠 Builds
+
+* **deps:** update debug requirement from 3.2.3 to 4.0.0 ([bff26a6](https://github.com/wmfs/tymly-express-plugin/commit/bff26a6))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-users-plugin requirement ([6a72a7d](https://github.com/wmfs/tymly-express-plugin/commit/6a72a7d))
+
 # [1.6.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.5.0...v1.6.0) (2018-09-11)
 
 
