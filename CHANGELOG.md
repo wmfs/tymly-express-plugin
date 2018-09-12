@@ -1,3 +1,13 @@
+# [1.10.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.9.0...v1.10.0) (2018-09-12)
+
+
+### 🛠 Builds
+
+* **deps:** update lodash requirement from 4.17.10 to 4.17.11 ([38cb5c7](https://github.com/wmfs/tymly-express-plugin/commit/38cb5c7))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.26.1 to 1.27.0 ([ed08fa4](https://github.com/wmfs/tymly-express-plugin/commit/ed08fa4))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.27.0 to 1.29.0 ([91a1fc5](https://github.com/wmfs/tymly-express-plugin/commit/91a1fc5))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-users-plugin requirement ([888f4c2](https://github.com/wmfs/tymly-express-plugin/commit/888f4c2))
+
 # [1.9.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.8.0...v1.9.0) (2018-09-12)
 
 
