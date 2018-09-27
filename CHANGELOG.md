@@ -1,3 +1,44 @@
+# [1.11.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.10.0...v1.11.0) (2018-09-27)
+
+
+### ✨ Features
+
+* **startup:** Remove rbac from bootAfter list ([5d79d5b](https://github.com/wmfs/tymly-express-plugin/commit/5d79d5b))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.29.0 to 1.30.0 ([254e2d2](https://github.com/wmfs/tymly-express-plugin/commit/254e2d2))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.30.0 to 1.31.0 ([a4ad5da](https://github.com/wmfs/tymly-express-plugin/commit/a4ad5da))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.31.0 to 1.32.0 ([f987cdb](https://github.com/wmfs/tymly-express-plugin/commit/f987cdb))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.32.0 to 1.33.0 ([817dcd7](https://github.com/wmfs/tymly-express-plugin/commit/817dcd7))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.33.0 to 1.34.0 ([005abcf](https://github.com/wmfs/tymly-express-plugin/commit/005abcf))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.34.0 to 1.35.0 ([dfc9668](https://github.com/wmfs/tymly-express-plugin/commit/dfc9668))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.35.0 to 1.36.0 ([8dfe8f2](https://github.com/wmfs/tymly-express-plugin/commit/8dfe8f2))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.36.0 to 1.37.0 ([7095d9f](https://github.com/wmfs/tymly-express-plugin/commit/7095d9f))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-rbac-plugin requirement ([aaec63c](https://github.com/wmfs/tymly-express-plugin/commit/aaec63c))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-solr-plugin requirement ([b5bb7d1](https://github.com/wmfs/tymly-express-plugin/commit/b5bb7d1))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-solr-plugin requirement ([5e0224d](https://github.com/wmfs/tymly-express-plugin/commit/5e0224d))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-users-plugin requirement ([bcd5e9a](https://github.com/wmfs/tymly-express-plugin/commit/bcd5e9a))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-users-plugin requirement ([35e88f4](https://github.com/wmfs/tymly-express-plugin/commit/35e88f4))
+* **deps-dev:** update chai requirement from 4.1.2 to 4.2.0 ([643d1d0](https://github.com/wmfs/tymly-express-plugin/commit/643d1d0))
+* **deps-dev:** update semantic-release requirement ([f762daf](https://github.com/wmfs/tymly-express-plugin/commit/f762daf))
+
+
+### 📦 Code Refactoring
+
+* Remove redundant RBAC service call ([f9a69c9](https://github.com/wmfs/tymly-express-plugin/commit/f9a69c9))
+
+
+### 🚨 Tests
+
+* Remove RBAC tests ([2e92bc1](https://github.com/wmfs/tymly-express-plugin/commit/2e92bc1))
+
+
+### ♻️ Chores
+
+* **dev-deps:** Bump rbac-plugin from 1.1.0 to 1.2.0 ([3323829](https://github.com/wmfs/tymly-express-plugin/commit/3323829))
+
 # [1.10.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.9.0...v1.10.0) (2018-09-12)
 
 
