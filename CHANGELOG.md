@@ -1,3 +1,13 @@
+# [1.13.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.12.0...v1.13.0) (2018-10-09)
+
+
+### 🛠 Builds
+
+* **deps:** update helmet requirement from 3.13.0 to 3.14.0 ([a016a68](https://github.com/wmfs/tymly-express-plugin/commit/a016a68))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.42.0 to 1.44.0 ([b0c2721](https://github.com/wmfs/tymly-express-plugin/commit/b0c2721))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.44.0 to 1.45.0 ([bfdefd8](https://github.com/wmfs/tymly-express-plugin/commit/bfdefd8))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-solr-plugin requirement ([ecf039b](https://github.com/wmfs/tymly-express-plugin/commit/ecf039b))
+
 # [1.12.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.11.0...v1.12.0) (2018-10-08)
 
 
