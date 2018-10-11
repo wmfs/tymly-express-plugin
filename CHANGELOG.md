@@ -1,3 +1,10 @@
+# [1.14.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.13.0...v1.14.0) (2018-10-11)
+
+
+### 🛠 Builds
+
+* **deps:** update express requirement from 4.16.3 to 4.16.4 ([276b9e7](https://github.com/wmfs/tymly-express-plugin/commit/276b9e7))
+
 # [1.13.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.12.0...v1.13.0) (2018-10-09)
 
 
