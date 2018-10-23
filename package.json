@@ -23,7 +23,7 @@
     "boom": "7.2.0",
     "cpr": "3.0.1",
     "debug": "4.1.0",
-    "dottie": "2.0.0",
+    "dottie": "2.0.1",
     "express": "4.16.4",
     "express-jwt": "5.3.1",
     "helmet": "3.14.0",
