@@ -1,3 +1,20 @@
+# [1.16.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.15.0...v1.16.0) (2018-11-01)
+
+
+### 🛠 Builds
+
+* **deps:** update boom requirement from 7.2.0 to 7.2.1 ([99a2bc0](https://github.com/wmfs/tymly-express-plugin/commit/99a2bc0))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.54.0 to 1.55.0 ([f4b319c](https://github.com/wmfs/tymly-express-plugin/commit/f4b319c))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.55.0 to 1.56.0 ([ecc1dd9](https://github.com/wmfs/tymly-express-plugin/commit/ecc1dd9))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.56.0 to 1.57.0 ([7bd1283](https://github.com/wmfs/tymly-express-plugin/commit/7bd1283))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.57.0 to 1.58.0 ([f3b3310](https://github.com/wmfs/tymly-express-plugin/commit/f3b3310))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-rbac-plugin requirement ([b1ad3d6](https://github.com/wmfs/tymly-express-plugin/commit/b1ad3d6))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-rbac-plugin requirement ([2e8ab60](https://github.com/wmfs/tymly-express-plugin/commit/2e8ab60))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-rbac-plugin requirement ([45ec7b3](https://github.com/wmfs/tymly-express-plugin/commit/45ec7b3))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-rbac-plugin requirement ([6ba9d7a](https://github.com/wmfs/tymly-express-plugin/commit/6ba9d7a))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-users-plugin requirement ([53955ba](https://github.com/wmfs/tymly-express-plugin/commit/53955ba))
+* **deps-dev:** update semantic-release requirement ([5c0f5d9](https://github.com/wmfs/tymly-express-plugin/commit/5c0f5d9))
+
 # [1.15.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.14.0...v1.15.0) (2018-10-23)
 
 
