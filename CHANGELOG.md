@@ -1,3 +1,12 @@
+# [1.17.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.16.0...v1.17.0) (2018-11-03)
+
+
+### 🛠 Builds
+
+* **deps:** update boom requirement from 7.2.1 to 7.2.2 ([46571a2](https://github.com/wmfs/tymly-express-plugin/commit/46571a2))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-rbac-plugin requirement ([a93a26f](https://github.com/wmfs/tymly-express-plugin/commit/a93a26f))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-rbac-plugin requirement ([8f40df3](https://github.com/wmfs/tymly-express-plugin/commit/8f40df3))
+
 # [1.16.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.15.0...v1.16.0) (2018-11-01)
 
 
