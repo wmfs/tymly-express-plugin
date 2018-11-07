@@ -1,3 +1,14 @@
+# [1.18.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.17.0...v1.18.0) (2018-11-07)
+
+
+### 🛠 Builds
+
+* **deps:** update helmet requirement from 3.14.0 to 3.15.0 ([b114fd6](https://github.com/wmfs/tymly-express-plugin/commit/b114fd6))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-rbac-plugin requirement ([9bbdb54](https://github.com/wmfs/tymly-express-plugin/commit/9bbdb54))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-solr-plugin requirement ([4e1beb0](https://github.com/wmfs/tymly-express-plugin/commit/4e1beb0))
+* **deps-dev:** update semantic-release requirement ([ba8fdd5](https://github.com/wmfs/tymly-express-plugin/commit/ba8fdd5))
+* **deps-dev:** update semantic-release requirement ([b4cd809](https://github.com/wmfs/tymly-express-plugin/commit/b4cd809))
+
 # [1.17.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.16.0...v1.17.0) (2018-11-03)
 
 
