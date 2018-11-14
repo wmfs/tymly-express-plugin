@@ -1,3 +1,14 @@
+# [1.19.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.18.0...v1.19.0) (2018-11-14)
+
+
+### 🛠 Builds
+
+* **deps:** update jsonwebtoken requirement from 8.3.0 to 8.4.0 ([009ae17](https://github.com/wmfs/tymly-express-plugin/commit/009ae17))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.58.0 to 1.59.0 ([df34602](https://github.com/wmfs/tymly-express-plugin/commit/df34602))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-rbac-plugin requirement ([d4a759a](https://github.com/wmfs/tymly-express-plugin/commit/d4a759a))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-rbac-plugin requirement ([27111ce](https://github.com/wmfs/tymly-express-plugin/commit/27111ce))
+* **deps-dev:** update semantic-release requirement ([86579a7](https://github.com/wmfs/tymly-express-plugin/commit/86579a7))
+
 # [1.18.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.17.0...v1.18.0) (2018-11-07)
 
 
