@@ -415,7 +415,7 @@ describe('Simple Express tests', function () {
           expect(body.ctx.petName).to.equal('Alan')
           expect(body.status).to.equal('STOPPED')
           expect(body.errorCode).to.equal('STOPPED')
-          expect(body.errorCause).to.equal('Execution stopped externally')
+          expect(body.errorMessage).to.equal('Execution stopped externally')
           done(err)
         }
       )

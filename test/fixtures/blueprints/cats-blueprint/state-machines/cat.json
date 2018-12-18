@@ -73,6 +73,7 @@
           }
         }
       ],
+      "OutputPath": "$[0]",
       "Next": "Sitting"
     },
     "Sleeping": {
