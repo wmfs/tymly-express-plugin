@@ -1,3 +1,30 @@
+# [1.20.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.19.0...v1.20.0) (2018-12-21)
+
+
+### 🛠 Builds
+
+* **deps:** update boom requirement from 7.2.2 to 7.3.0 ([f932800](https://github.com/wmfs/tymly-express-plugin/commit/f932800))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.59.0 to 1.60.0 ([b04bc26](https://github.com/wmfs/tymly-express-plugin/commit/b04bc26))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.60.0 to 1.61.0 ([1f5404d](https://github.com/wmfs/tymly-express-plugin/commit/1f5404d))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.61.0 to 1.62.0 ([15eb874](https://github.com/wmfs/tymly-express-plugin/commit/15eb874))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.62.0 to 1.63.0 ([88d5ed5](https://github.com/wmfs/tymly-express-plugin/commit/88d5ed5))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.63.0 to 1.64.0 ([c2d505c](https://github.com/wmfs/tymly-express-plugin/commit/c2d505c))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.64.0 to 1.65.0 ([3edd2da](https://github.com/wmfs/tymly-express-plugin/commit/3edd2da))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.65.0 to 1.65.1 ([67e3f0a](https://github.com/wmfs/tymly-express-plugin/commit/67e3f0a))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.65.1 to 1.66.0 ([09ce4a6](https://github.com/wmfs/tymly-express-plugin/commit/09ce4a6))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-rbac-plugin requirement ([0eb2c73](https://github.com/wmfs/tymly-express-plugin/commit/0eb2c73))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-rbac-plugin requirement ([9c98ff1](https://github.com/wmfs/tymly-express-plugin/commit/9c98ff1))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-users-plugin requirement ([48b95b3](https://github.com/wmfs/tymly-express-plugin/commit/48b95b3))
+* **deps-dev:** update semantic-release requirement ([0c11381](https://github.com/wmfs/tymly-express-plugin/commit/0c11381))
+* **deps-dev:** update semantic-release requirement ([dd87cbd](https://github.com/wmfs/tymly-express-plugin/commit/dd87cbd))
+* **deps-dev:** update semantic-release requirement ([38db697](https://github.com/wmfs/tymly-express-plugin/commit/38db697))
+* **deps-dev:** update semantic-release requirement ([#240](https://github.com/wmfs/tymly-express-plugin/issues/240)) ([5069f50](https://github.com/wmfs/tymly-express-plugin/commit/5069f50))
+
+
+### 🚨 Tests
+
+* Correct tests ([006a2ff](https://github.com/wmfs/tymly-express-plugin/commit/006a2ff))
+
 # [1.19.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.18.0...v1.19.0) (2018-11-14)
 
 
