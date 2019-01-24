@@ -1,3 +1,32 @@
+# [1.21.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.20.0...v1.21.0) (2019-01-24)
+
+
+### 🛠 Builds
+
+* **deps:** update debug requirement from 4.1.0 to 4.1.1 ([982a51d](https://github.com/wmfs/tymly-express-plugin/commit/982a51d))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/changelog requirement ([8edcfc6](https://github.com/wmfs/tymly-express-plugin/commit/8edcfc6))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([9f8ee4d](https://github.com/wmfs/tymly-express-plugin/commit/9f8ee4d))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([#242](https://github.com/wmfs/tymly-express-plugin/issues/242)) ([0026b9b](https://github.com/wmfs/tymly-express-plugin/commit/0026b9b))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.75.0 to 1.78.1 ([983d786](https://github.com/wmfs/tymly-express-plugin/commit/983d786))
+* **deps-dev:** update semantic-release requirement ([85e98c6](https://github.com/wmfs/tymly-express-plugin/commit/85e98c6))
+
+
+### 📦 Code Refactoring
+
+* **jwt-auth:** If we can't grab the pem file locally, lets get it direct from Auth0 ([d35f0db](https://github.com/wmfs/tymly-express-plugin/commit/d35f0db))
+
+
+### 📚 Documentation
+
+* JSDocs for jwt-auth/index ([93846dd](https://github.com/wmfs/tymly-express-plugin/commit/93846dd))
+* JSDocs for server/index ([9882320](https://github.com/wmfs/tymly-express-plugin/commit/9882320))
+* JSDocs for statebox-api/index ([ab1cf47](https://github.com/wmfs/tymly-express-plugin/commit/ab1cf47))
+
+
+### ♻️ Chores
+
+* **jwt-auth:** remove unnecessary logs ([01543f5](https://github.com/wmfs/tymly-express-plugin/commit/01543f5))
+
 # [1.20.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.19.0...v1.20.0) (2018-12-21)
 
 
