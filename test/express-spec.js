@@ -28,7 +28,7 @@ function sendToken (adminToken) {
 describe('Simple Express tests', function () {
   this.timeout(process.env.TIMEOUT || 5000)
 
-  let tymlyService, server, adminToken, rupert, alan, statebox
+  let tymlyService, server, adminToken, rupert, alan, statebox, authService
   const secret = 'Shhh!'
   const audience = 'IAmTheAudience!'
   const executionsUrl = `http://localhost:${PORT}/executions/`
@@ -90,6 +90,7 @@ describe('Simple Express tests', function () {
         (err, tymlyServices) => {
           expect(err).to.eql(null)
           tymlyService = tymlyServices.tymly
+          authService = tymlyServices.jwtAuth
           server = tymlyServices.server
           statebox = tymlyServices.statebox
           tymlyServices.rbac.debug()
@@ -107,6 +108,14 @@ describe('Simple Express tests', function () {
           done()
         }
       )
+    })
+
+    it('should get cert from auth0 domain', async () => {
+      process.env.AUTH0_DOMAIN = 'wmfs'
+      const cert = await authService.findCertificate()
+      expect(cert)
+      expect(cert.includes('BEGIN CERTIFICATE'))
+      expect(cert.includes('END CERTIFICATE'))
     })
   })
 
@@ -295,7 +304,6 @@ describe('Simple Express tests', function () {
           headers: sendToken(adminToken)
         },
         (err, res, body) => {
-          console.log('>>>>', res)
           expect(res.statusCode).to.equal(200)
           expect(body.status).to.equal('RUNNING')
           expect(body.currentStateName).to.equal('Listening')
