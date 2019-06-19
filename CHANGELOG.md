@@ -1,3 +1,21 @@
+# [1.22.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.21.0...v1.22.0) (2019-06-19)
+
+
+### ✨ Features
+
+* exposed wait until stopped running as a new route ([559bfda](https://github.com/wmfs/tymly-express-plugin/commit/559bfda))
+
+
+### 📚 Documentation
+
+* Adds a TODO re. use of env variables. ([549a558](https://github.com/wmfs/tymly-express-plugin/commit/549a558))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** add circle ci config ([a801ed3](https://github.com/wmfs/tymly-express-plugin/commit/a801ed3))
+* **travis:** update travis config ([e3fea1f](https://github.com/wmfs/tymly-express-plugin/commit/e3fea1f))
+
 # [1.21.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.20.0...v1.21.0) (2019-01-24)
 
 
