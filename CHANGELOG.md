@@ -1,3 +1,11 @@
+# [1.23.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.22.0...v1.23.0) (2019-06-27)
+
+
+### 🛠 Builds
+
+* **deps:** update jsonwebtoken requirement from 8.4.0 to 8.5.1 ([01b8501](https://github.com/wmfs/tymly-express-plugin/commit/01b8501))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-users-plugin requirement ([d13a95a](https://github.com/wmfs/tymly-express-plugin/commit/d13a95a))
+
 # [1.22.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.21.0...v1.22.0) (2019-06-19)
 
 
