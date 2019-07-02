@@ -1,3 +1,21 @@
+# [1.24.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.23.0...v1.24.0) (2019-07-02)
+
+
+### 🛠 Builds
+
+* **deps:** update helmet requirement from 3.15.0 to 3.18.0 ([6a2397e](https://github.com/wmfs/tymly-express-plugin/commit/6a2397e))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/changelog requirement ([8999e3b](https://github.com/wmfs/tymly-express-plugin/commit/8999e3b))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([968fba4](https://github.com/wmfs/tymly-express-plugin/commit/968fba4))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.78.1 to 1.94.1 ([cc99b84](https://github.com/wmfs/tymly-express-plugin/commit/cc99b84))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly-solr-plugin requirement ([1dc0f01](https://github.com/wmfs/tymly-express-plugin/commit/1dc0f01))
+* **deps-dev:** update mocha requirement from 5.2.0 to 6.1.4 ([a470e02](https://github.com/wmfs/tymly-express-plugin/commit/a470e02))
+* **deps-dev:** update nyc requirement from 13.1.0 to 14.1.1 ([adf040d](https://github.com/wmfs/tymly-express-plugin/commit/adf040d))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** Update CircleCI config - Travis migration ([115cf5e](https://github.com/wmfs/tymly-express-plugin/commit/115cf5e))
+
 # [1.23.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.22.0...v1.23.0) (2019-06-27)
 
 
