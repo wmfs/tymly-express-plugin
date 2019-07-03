@@ -1,3 +1,10 @@
+# [1.25.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.24.0...v1.25.0) (2019-07-03)
+
+
+### 🛠 Builds
+
+* **deps:** update axios requirement from 0.18.0 to 0.19.0 ([eb50235](https://github.com/wmfs/tymly-express-plugin/commit/eb50235))
+
 # [1.24.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.23.0...v1.24.0) (2019-07-02)
 
 
