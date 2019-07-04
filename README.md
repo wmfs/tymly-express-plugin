@@ -1,7 +1,7 @@
 # tymly-express-plugin
 [![Tymly Plugin](https://img.shields.io/badge/tymly-plugin-blue.svg)](https://tymly.io/)
 [![npm (scoped)](https://img.shields.io/npm/v/@wmfs/tymly-express-plugin.svg)](https://www.npmjs.com/package/@wmfs/tymly-express-plugin)
-[![Build Status](https://travis-ci.org/wmfs/tymly-express-plugin.svg?branch=master)](https://travis-ci.org/wmfs/tymly-express-plugin)
+[![CircleCI](https://circleci.com/gh/wmfs/tymly-express-plugin.svg?style=svg)](https://circleci.com/gh/wmfs/tymly-express-plugin)
 [![codecov](https://codecov.io/gh/wmfs/tymly-express-plugin/branch/master/graph/badge.svg)](https://codecov.io/gh/wmfs/tymly-express-plugin)
 [![CodeFactor](https://www.codefactor.io/repository/github/wmfs/tymly-express-plugin/badge)](https://www.codefactor.io/repository/github/wmfs/tymly-express-plugin)
 [![Dependabot badge](https://img.shields.io/badge/Dependabot-active-brightgreen.svg)](https://dependabot.com/)
