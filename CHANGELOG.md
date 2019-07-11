@@ -1,3 +1,20 @@
+# [1.26.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.25.0...v1.26.0) (2019-07-11)
+
+
+### 🛠 Builds
+
+* **deps:** update lodash requirement from 4.17.11 to 4.17.14 ([3a279c7](https://github.com/wmfs/tymly-express-plugin/commit/3a279c7))
+
+
+### 📚 Documentation
+
+* add circleci status [skip ci] ([f896c9e](https://github.com/wmfs/tymly-express-plugin/commit/f896c9e))
+
+
+### ⚙️ Continuous Integrations
+
+* **travis:** remove Travis config ([1879f68](https://github.com/wmfs/tymly-express-plugin/commit/1879f68))
+
 # [1.25.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.24.0...v1.25.0) (2019-07-03)
 
 
