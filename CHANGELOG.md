@@ -1,3 +1,10 @@
+# [1.27.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.26.0...v1.27.0) (2019-09-04)
+
+
+### ✨ Features
+
+* return exec desc on wait until stopped running route ([f7e0626](https://github.com/wmfs/tymly-express-plugin/commit/f7e0626))
+
 # [1.26.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.25.0...v1.26.0) (2019-07-11)
 
 
