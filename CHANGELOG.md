@@ -1,3 +1,15 @@
+## [1.27.1](https://github.com/wmfs/tymly-express-plugin/compare/v1.27.0...v1.27.1) (2019-11-08)
+
+
+### 🐛 Bug Fixes
+
+* change users plugin to cardscript plugin ([](https://github.com/wmfs/tymly-express-plugin/commit/f8e956c))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dev dependancies ([](https://github.com/wmfs/tymly-express-plugin/commit/a05ddd0))
+
 # [1.27.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.26.0...v1.27.0) (2019-09-04)
 
 
