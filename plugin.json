@@ -1,0 +1,11 @@
+{
+  "name": "express",
+  "version": "1.27.1",
+  "label": "Express",
+  "author": "Tim Needham",
+  "organisation": "West Midlands Fire Service",
+  "description": "Tymly plugin to expose Tymly via an Express.js web app",
+  "categories": [
+    "express.js"
+  ]
+}
