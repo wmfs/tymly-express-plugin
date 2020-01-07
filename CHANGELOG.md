@@ -1,3 +1,28 @@
+# [1.28.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.27.1...v1.28.0) (2020-01-07)
+
+
+### 🛠 Builds
+
+* **deps:** update lodash requirement from 4.17.14 to 4.17.15 ([8d00f6d](https://github.com/wmfs/tymly-express-plugin/commit/8d00f6db83c9978491d1c3389d500716f2a96000))
+* **deps-dev:** add [@semantic-release](https://github.com/semantic-release)/exec ([ee616f8](https://github.com/wmfs/tymly-express-plugin/commit/ee616f86ef3d752d5a15d91cd1a4cfd3dd9f64b0))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-rest-client-plugin from 1.2.0 to 1.3.1 ([889b37b](https://github.com/wmfs/tymly-express-plugin/commit/889b37b7d04f3bc149fde220355929f72d1f70a0))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-solr-plugin from 2.1.1 to 2.2.0 ([1a331d8](https://github.com/wmfs/tymly-express-plugin/commit/1a331d87340930e83b01b745f026a012ef01ee57))
+* **deps-dev:** bump many dev dependencies ([60f46b3](https://github.com/wmfs/tymly-express-plugin/commit/60f46b31e26820cbe9193e03aa20d1860939c7f1))
+* **deps-dev:** bump packages ([c1b1296](https://github.com/wmfs/tymly-express-plugin/commit/c1b12967a3f1d76bf4b4801a7d69fa1b3d081d5c))
+* **deps-dev:** update dev dependencies ([57ea958](https://github.com/wmfs/tymly-express-plugin/commit/57ea9588354b38dd98ccd0bfd3e0d711a6e65f91))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** update config ([bcdb0a0](https://github.com/wmfs/tymly-express-plugin/commit/bcdb0a0f9edf2fd724e17f6d4625b33b699fa8f4))
+
+
+### ♻️ Chores
+
+* add plugin.json ([b3df904](https://github.com/wmfs/tymly-express-plugin/commit/b3df904ee9abd9dd191c00e92eb87de710756648))
+* add version_plugin script ([3f69e3e](https://github.com/wmfs/tymly-express-plugin/commit/3f69e3e1383eb0d0292905e40b7778d5337c1c48))
+* update .releaserc.json ([2e53458](https://github.com/wmfs/tymly-express-plugin/commit/2e534585c1bfe49df782a57b34c193f12b5fea38))
+
 ## [1.27.1](https://github.com/wmfs/tymly-express-plugin/compare/v1.27.0...v1.27.1) (2019-11-08)
 
 
