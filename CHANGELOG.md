@@ -1,3 +1,10 @@
+# [1.30.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.29.0...v1.30.0) (2020-01-08)
+
+
+### 🛠 Builds
+
+* **deps:** bump dottie from 2.0.1 to 2.0.2 ([3e9a2b5](https://github.com/wmfs/tymly-express-plugin/commit/3e9a2b560613ac76fcd61ad79d167c64a11f2049))
+
 # [1.29.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.28.0...v1.29.0) (2020-01-08)
 
 
