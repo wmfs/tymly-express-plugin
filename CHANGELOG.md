@@ -1,3 +1,10 @@
+# [1.31.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.30.0...v1.31.0) (2020-01-08)
+
+
+### 🛠 Builds
+
+* **deps:** bump axios from 0.19.0 to 0.19.1 ([ef200e2](https://github.com/wmfs/tymly-express-plugin/commit/ef200e204de00e0fb43efd3012f00c3f23117612))
+
 # [1.30.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.29.0...v1.30.0) (2020-01-08)
 
 
