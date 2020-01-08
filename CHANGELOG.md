@@ -1,3 +1,11 @@
+# [1.29.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.28.0...v1.29.0) (2020-01-08)
+
+
+### 🛠 Builds
+
+* **deps:** update body-parser requirement from 1.18.3 to 1.19.0 ([5d8e0b3](https://github.com/wmfs/tymly-express-plugin/commit/5d8e0b32198a62923f356ff9baed77f9b8996f81))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-rbac-plugin from 1.15.0 to 1.16.0 ([3328ad6](https://github.com/wmfs/tymly-express-plugin/commit/3328ad65ec3bea837e99d4cfba67cfd18435f2b2))
+
 # [1.28.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.27.1...v1.28.0) (2020-01-07)
 
 
