@@ -40,7 +40,7 @@
     "@wmfs/tymly": "1.94.1",
     "@wmfs/tymly-rbac-plugin": "1.17.0",
     "@wmfs/tymly-rest-client-plugin": "1.4.0",
-    "@wmfs/tymly-solr-plugin": "2.2.0",
+    "@wmfs/tymly-solr-plugin": "2.2.1",
     "@wmfs/tymly-cardscript-plugin": "1.8.0",
     "chai": "4.2.0",
     "codecov": "3.6.1",
