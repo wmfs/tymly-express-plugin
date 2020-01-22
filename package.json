@@ -19,7 +19,7 @@
   },
   "main": "./lib/index.js",
   "dependencies": {
-    "axios": "0.19.1",
+    "axios": "0.19.2",
     "body-parser": "1.19.0",
     "boom": "7.3.0",
     "cpr": "3.0.1",
