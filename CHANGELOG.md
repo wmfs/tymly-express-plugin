@@ -1,3 +1,14 @@
+# [1.32.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.31.0...v1.32.0) (2020-01-23)
+
+
+### 🛠 Builds
+
+* **deps:** bump axios from 0.19.1 to 0.19.2 ([dc1c04f](https://github.com/wmfs/tymly-express-plugin/commit/dc1c04f819822be7d461f32aa452ba7ec5bcb903))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-rbac-plugin from 1.16.0 to 1.17.0 ([4f0dc47](https://github.com/wmfs/tymly-express-plugin/commit/4f0dc4782c9001e9bcd7f59b055b2a3ba142a604))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-rest-client-plugin from 1.3.1 to 1.4.0 ([9ac742e](https://github.com/wmfs/tymly-express-plugin/commit/9ac742ebd14d96c3e1d7586ea0a427a853eb75ab))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-solr-plugin from 2.2.0 to 2.2.1 ([87775b0](https://github.com/wmfs/tymly-express-plugin/commit/87775b0f69db404211621b9d88377987db683f2b))
+* **deps-dev:** bump conventional-changelog-metahub from 3.0.0 to 4.0.0 ([828e6c2](https://github.com/wmfs/tymly-express-plugin/commit/828e6c27a53e835929e21ff7dc19466926cbb47b))
+
 # [1.31.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.30.0...v1.31.0) (2020-01-08)
 
 
