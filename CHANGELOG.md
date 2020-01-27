@@ -1,3 +1,17 @@
+# [1.33.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.32.0...v1.33.0) (2020-01-27)
+
+
+### 🛠 Builds
+
+* **deps:** bump helmet from 3.18.0 to 3.21.2 ([e430c52](https://github.com/wmfs/tymly-express-plugin/commit/e430c5205c008b2584e110a7da245b4c1c7b7cd6))
+* **deps:** update express requirement from 4.16.4 to 4.17.1 ([afcb068](https://github.com/wmfs/tymly-express-plugin/commit/afcb068aafa9151ad6a10fd61e04d53ad6648825))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-cardscript-plugin from 1.8.0 to 1.10.0 ([4b26922](https://github.com/wmfs/tymly-express-plugin/commit/4b269225d073f6c0bf989b11bc71fdc923b3bfb0))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-rest-client-plugin from 1.4.0 to 1.5.0 ([1ddc6c8](https://github.com/wmfs/tymly-express-plugin/commit/1ddc6c80bd0acee54c27782f4cc21c4a9ebfff2e))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-rest-client-plugin from 1.5.0 to 1.6.0 ([1e9c0cf](https://github.com/wmfs/tymly-express-plugin/commit/1e9c0cfcf9e1607ae87a6b916ec2e50747cf1b99))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-solr-plugin from 2.2.1 to 2.3.0 ([014601b](https://github.com/wmfs/tymly-express-plugin/commit/014601b1b6d752af37767043cc89fde30a3004bf))
+* **deps-dev:** bump codecov from 3.6.1 to 3.6.2 ([d1fc2bf](https://github.com/wmfs/tymly-express-plugin/commit/d1fc2bf746f5569271392ca3e5db37e01eb7c4ec))
+* **deps-dev:** bump mocha from 7.0.0 to 7.0.1 ([10269ef](https://github.com/wmfs/tymly-express-plugin/commit/10269ef26eb01ab9b17f5236ab639bb00dec497e))
+
 # [1.32.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.31.0...v1.32.0) (2020-01-23)
 
 
