@@ -37,7 +37,7 @@
     "@semantic-release/changelog": "3.0.6",
     "@semantic-release/git": "7.0.18",
     "@semantic-release/exec": "3.3.8",
-    "@wmfs/tymly": "1.94.1",
+    "@wmfs/tymly": "1.115.0",
     "@wmfs/tymly-rbac-plugin": "1.17.0",
     "@wmfs/tymly-rest-client-plugin": "1.6.0",
     "@wmfs/tymly-solr-plugin": "2.4.0",
