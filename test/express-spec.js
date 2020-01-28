@@ -80,8 +80,8 @@ describe('Simple Express tests', function () {
             },
 
             defaultUsers: {
-              'Dave': ['tymlyTest_tymlyTestAdmin'],
-              'Steve': ['spaceCadet']
+              Dave: ['tymlyTest_tymlyTestAdmin'],
+              Steve: ['spaceCadet']
             }
 
           }
@@ -208,7 +208,7 @@ describe('Simple Express tests', function () {
                 appName: 'tymly-express-plugin',
                 domain: 'express-spec.js'
               },
-              'stateMachineName': 'tymlyTest_cat_1_0',
+              stateMachineName: 'tymlyTest_cat_1_0',
               userId: 'Dave'
             }
           )
@@ -480,7 +480,7 @@ describe('Simple Express tests', function () {
                 appName: 'tymly-express-plugin',
                 domain: 'express-spec.js'
               },
-              'stateMachineName': 'tymlyTest_helloFailButLiveAgain',
+              stateMachineName: 'tymlyTest_helloFailButLiveAgain',
               userId: 'Dave'
             }
           )
