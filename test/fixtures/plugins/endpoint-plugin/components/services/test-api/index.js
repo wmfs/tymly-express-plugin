@@ -24,8 +24,8 @@ function addExpressApi (express, app, jwtCheck) {
 
 function getTestResponse (req, res) {
   const testResponse = {
-    'stateMachinesUserCanStart': [],
-    'forms': {}
+    stateMachinesUserCanStart: [],
+    forms: {}
   }
 
   res.status(200).send(testResponse)
