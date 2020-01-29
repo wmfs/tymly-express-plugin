@@ -356,7 +356,7 @@ describe('Simple Express tests', function () {
             expect(executionDescription.ctx.petDiary[0]).to.equal('Look out, Alan is waking up!')
             expect(executionDescription.ctx.petDiary[1]).to.equal('Alan is listening for something... what will he hear?')
             expect(executionDescription.ctx.petDiary[2]).to.equal('Sweet dreams Alan! x')
-            expect(executionDescription.ctx.formData.order[0]).to.eql(
+            expect(executionDescription.ctx.order[0]).to.eql(
               {
                 product: 'Fresh Tuna',
                 quantity: 25
