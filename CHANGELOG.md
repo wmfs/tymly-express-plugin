@@ -1,3 +1,31 @@
+# [1.34.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.33.0...v1.34.0) (2020-02-12)
+
+
+### 🛠 Builds
+
+* **deps:** bump request from 2.88.0 to 2.88.2 ([685d074](https://github.com/wmfs/tymly-express-plugin/commit/685d074ab1367965ad58f858ead289c0f70ef417))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/changelog from 3.0.6 to 5.0.0 ([b455380](https://github.com/wmfs/tymly-express-plugin/commit/b4553808df101c4e6301b80792d4ed9ee575a3eb))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.118.0 to 1.119.0 ([bf519b0](https://github.com/wmfs/tymly-express-plugin/commit/bf519b026aeae287c4d94a20b82b21b414ae0405))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.94.1 to 1.118.0 ([a0ca6cc](https://github.com/wmfs/tymly-express-plugin/commit/a0ca6cc3f8d22d75822d3d10a897c3bf33f1357a))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-cardscript-plugin ([6a52cce](https://github.com/wmfs/tymly-express-plugin/commit/6a52cceb82a3aaeaa192eebacee05bcf235dc222))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-solr-plugin from 2.3.0 to 2.4.0 ([1e4d797](https://github.com/wmfs/tymly-express-plugin/commit/1e4d797ed9d391ffb61b57620d6b19b46ae53ee2))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-solr-plugin from 2.4.0 to 2.5.0 ([70c91ff](https://github.com/wmfs/tymly-express-plugin/commit/70c91ff88c2f906ba967f25137e02e38f3027eea))
+* **deps-dev:** bump codecov from 3.6.2 to 3.6.3 ([28ddb1c](https://github.com/wmfs/tymly-express-plugin/commit/28ddb1c50152adf9cab5cd8c5559e5d90bc54cea))
+* **deps-dev:** bump codecov from 3.6.3 to 3.6.4 ([02236dc](https://github.com/wmfs/tymly-express-plugin/commit/02236dc5aab6a45de1f44cb2df7b2a462d441840))
+* **deps-dev:** bump codecov from 3.6.4 to 3.6.5 ([5403fe7](https://github.com/wmfs/tymly-express-plugin/commit/5403fe75d0e6c70efacee1004f984bde1a479690))
+* **deps-dev:** bump cz-conventional-changelog from 3.0.2 to 3.1.0 ([7a44bfc](https://github.com/wmfs/tymly-express-plugin/commit/7a44bfc89877827a383531e7e97886447a963793))
+* **deps-dev:** update standard requirement from 12.0.1 to 14.3.1 ([0695883](https://github.com/wmfs/tymly-express-plugin/commit/0695883943a883a3c0afc0ca949c2a1c134c6b5c))
+
+
+### 🚨 Tests
+
+* remove formData from resultPath to enable tests to pass ([7b843ea](https://github.com/wmfs/tymly-express-plugin/commit/7b843ea78910c88b3caa01939af46e3e7c0fbb90))
+
+
+### 💎 Styles
+
+* standard --fix ([a1b75bd](https://github.com/wmfs/tymly-express-plugin/commit/a1b75bdd8bfd5514e8291fca5607c9cdd8424e33))
+
 # [1.33.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.32.0...v1.33.0) (2020-01-27)
 
 
