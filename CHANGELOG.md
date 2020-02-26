@@ -1,3 +1,12 @@
+# [1.35.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.34.0...v1.35.0) (2020-02-26)
+
+
+### 🛠 Builds
+
+* **deps:** bump helmet from 3.21.2 to 3.21.3 ([dc94009](https://github.com/wmfs/tymly-express-plugin/commit/dc940090dc7c3c629925220ff3171b07fb8d040b))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.119.0 to 1.120.0 ([cea65d6](https://github.com/wmfs/tymly-express-plugin/commit/cea65d6ebb9db81d084893d2a9b186b603b03b8a))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-solr-plugin from 2.5.0 to 2.6.0 ([c2c635d](https://github.com/wmfs/tymly-express-plugin/commit/c2c635decd915156291ac0fa99e2bc68fd56e974))
+
 # [1.34.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.33.0...v1.34.0) (2020-02-12)
 
 
