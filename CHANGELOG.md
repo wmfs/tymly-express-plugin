@@ -1,3 +1,14 @@
+# [1.37.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.36.0...v1.37.0) (2020-04-08)
+
+
+### 🛠 Builds
+
+* **deps:** bump express-jwt from 5.3.1 to 5.3.3 ([5a35ee9](https://github.com/wmfs/tymly-express-plugin/commit/5a35ee99d281248688bb48d870c289f4ba40aa94))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.129.0 to 1.130.0 ([279e238](https://github.com/wmfs/tymly-express-plugin/commit/279e23890c76cbd8f80ef43a332f5e0dbad9bd1a))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.130.0 to 1.131.0 ([fb37b8c](https://github.com/wmfs/tymly-express-plugin/commit/fb37b8c027e5ac9190b2c1283c70abe8942f954e))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.131.0 to 1.135.0 ([4e1861b](https://github.com/wmfs/tymly-express-plugin/commit/4e1861b04fb9b42d0068b7ec33f894bed9cd24f4))
+* **deps-dev:** bump nyc from 15.0.0 to 15.0.1 ([4aff765](https://github.com/wmfs/tymly-express-plugin/commit/4aff7659560b9895947da9af5c9c17c550fdc268))
+
 # [1.36.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.35.0...v1.36.0) (2020-04-02)
 
 
