@@ -49,11 +49,11 @@ describe('Simple Express tests', function () {
       )
     })
 
-    it('create some basic tymly services to run a simple cat blueprint', (done) => {
+    it('create some basic tymly services to run a simple cat blueprint', async () => {
       process.env.TEST_API_URL = testEndpointUrl
       process.env.TEST_TOKEN = 'Bearer ' + adminToken
 
-      tymly.boot(
+      const tymlyServices = await tymly.boot(
         {
           pluginPaths: [
             path.resolve(__dirname, './../lib'),
@@ -88,17 +88,14 @@ describe('Simple Express tests', function () {
 
           }
 
-        },
-        (err, tymlyServices) => {
-          expect(err).to.eql(null)
-          tymlyService = tymlyServices.tymly
-          authService = tymlyServices.jwtAuth
-          server = tymlyServices.server
-          statebox = tymlyServices.statebox
-          tymlyServices.rbac.debug()
-          done()
         }
       )
+
+      tymlyService = tymlyServices.tymly
+      authService = tymlyServices.jwtAuth
+      server = tymlyServices.server
+      statebox = tymlyServices.statebox
+      tymlyServices.rbac.debug()
     })
 
     it('start Express app', (done) => {
