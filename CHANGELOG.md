@@ -1,3 +1,29 @@
+## [1.38.1](https://github.com/wmfs/tymly-express-plugin/compare/v1.38.0...v1.38.1) (2020-04-29)
+
+
+### 🐛 Bug Fixes
+
+* **startExecution:** Restore debug output ([77f2cb3](https://github.com/wmfs/tymly-express-plugin/commit/77f2cb32144ed396ae05ff1e3984542e0e343f5f))
+* Switch statebox method calls from callback style to promise.then.catch ([13ae346](https://github.com/wmfs/tymly-express-plugin/commit/13ae346db30a097106e4561af7f612f622217130))
+* Switch statebox.method calls from callback style to promise.then.catch ([473d08f](https://github.com/wmfs/tymly-express-plugin/commit/473d08f2703385a5c7ea7346c0b53af87dbe5b61))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.137.0 to 1.137.1 ([e37a85f](https://github.com/wmfs/tymly-express-plugin/commit/e37a85fd016162dd89e60a41b4a848a20aaa7967))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-solr-plugin from 2.7.2 to 2.8.0 ([1431a4b](https://github.com/wmfs/tymly-express-plugin/commit/1431a4b23e3d0d1e5d2716ff8344864752b56ae7))
+* **deps-dev:** bump mocha from 7.1.1 to 7.1.2 ([80e5dd9](https://github.com/wmfs/tymly-express-plugin/commit/80e5dd9dd8dc17a90c1a6a05e0eff9102095489e))
+
+
+### 📦 Code Refactoring
+
+* **tests:** Flip tymly.boot from callback to async/await ([d3de50d](https://github.com/wmfs/tymly-express-plugin/commit/d3de50d8bd513ec296600ebcb4ef97f9de3bcf45))
+
+
+### 💎 Styles
+
+* lint fix ([bbb8dff](https://github.com/wmfs/tymly-express-plugin/commit/bbb8dff9cf1a6da698cbf00be2057e82ee980d62))
+
 # [1.38.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.37.1...v1.38.0) (2020-04-22)
 
 
