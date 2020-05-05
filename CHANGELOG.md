@@ -1,3 +1,28 @@
+## [1.38.2](https://github.com/wmfs/tymly-express-plugin/compare/v1.38.1...v1.38.2) (2020-05-05)
+
+
+### 🐛 Bug Fixes
+
+* **add-static-dir:** Replace async.eachOf with for each loops ([0d16759](https://github.com/wmfs/tymly-express-plugin/commit/0d16759ef2895b954141fd0d32f4778a664062df))
+* **jwtauth-service:** Remove redundant boot callback parameter ([6a67f26](https://github.com/wmfs/tymly-express-plugin/commit/6a67f26e7d500d56c20ae65bc76fe6ac5e63fcc7))
+* **server-service:** Removed redundant boot service callback parameter ([3cf328e](https://github.com/wmfs/tymly-express-plugin/commit/3cf328ebc23852d9439cf85c0f98bea73f62a458))
+* **statebox-api:** Remove redundant boot callback parameter ([a4b1694](https://github.com/wmfs/tymly-express-plugin/commit/a4b1694c3ccfbe881d6d4f9f6381c5200d2d0fec))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.137.1 to 1.137.2 ([ebe691d](https://github.com/wmfs/tymly-express-plugin/commit/ebe691df70d993e8bb27c2925dcf3f58dbd22faf))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-cardscript-plugin ([8fdeec8](https://github.com/wmfs/tymly-express-plugin/commit/8fdeec888f48262fd1af2c4ce606bad0eb152081))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-rbac-plugin from 1.17.2 to 1.17.3 ([7c524d5](https://github.com/wmfs/tymly-express-plugin/commit/7c524d51e9f35b98c0e9a4dc44a087af965a4583))
+* **deps-dev:** bump cz-conventional-changelog from 3.1.0 to 3.2.0 ([45ab107](https://github.com/wmfs/tymly-express-plugin/commit/45ab107f2231c947c1042647505b93b61c8ad776))
+
+
+### 📦 Code Refactoring
+
+* **add-static-dir:** Finish flipping add-static-dir from callbacks to async/await ([17d76ed](https://github.com/wmfs/tymly-express-plugin/commit/17d76edf96fc28238812e7e13c9afaef90612f6f))
+* **add-static-dir:** Pulled out rootDir function ([e74c28e](https://github.com/wmfs/tymly-express-plugin/commit/e74c28efddd8e4ad45ea30876c786b63a2fbe058))
+* **add-static-dir:** Wrap crp in a promise to lift callback out of loop ([dd1e8b5](https://github.com/wmfs/tymly-express-plugin/commit/dd1e8b50291c0295d86b5023ea50cbfcb5d8d61d))
+
 ## [1.38.1](https://github.com/wmfs/tymly-express-plugin/compare/v1.38.0...v1.38.1) (2020-04-29)
 
 
