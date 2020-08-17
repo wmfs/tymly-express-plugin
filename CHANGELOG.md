@@ -1,3 +1,19 @@
+# [1.41.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.40.0...v1.41.0) (2020-08-17)
+
+
+### 🛠 Builds
+
+* **deps:** bump lodash from 4.17.19 to 4.17.20 ([026959a](https://github.com/wmfs/tymly-express-plugin/commit/026959af7ce0c1142ee6d536486ea16775554424))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.150.0 to 1.151.0 ([4214ddd](https://github.com/wmfs/tymly-express-plugin/commit/4214ddd314671a97c35fb5a58ec0bd237b0838ab))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.151.0 to 1.153.0 ([a4a911a](https://github.com/wmfs/tymly-express-plugin/commit/a4a911ac44385951422832eed5b153ff85a17a8f))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.153.0 to 1.154.0 ([f8cc974](https://github.com/wmfs/tymly-express-plugin/commit/f8cc974d08f6db605dafe148d960141678565cae))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-cardscript-plugin ([ad2a1ed](https://github.com/wmfs/tymly-express-plugin/commit/ad2a1ed401190ac376db232b91bd648cf19c5c5e))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-cardscript-plugin ([dfe2c3b](https://github.com/wmfs/tymly-express-plugin/commit/dfe2c3b25c4790dbc86ca97d6754dd0d4be40df4))
+* **deps-dev:** bump codecov from 3.7.0 to 3.7.1 ([381c918](https://github.com/wmfs/tymly-express-plugin/commit/381c91893702eb7115c95fe4b4a1ab389b166775))
+* **deps-dev:** bump codecov from 3.7.1 to 3.7.2 ([4f5dc39](https://github.com/wmfs/tymly-express-plugin/commit/4f5dc3990c835f4338543010654c73f2b700337d))
+* **deps-dev:** bump mocha from 8.0.1 to 8.1.0 ([f361cf9](https://github.com/wmfs/tymly-express-plugin/commit/f361cf9b6b0bf123366c4624bf3ac02fbef2545c))
+* **deps-dev:** bump mocha from 8.1.0 to 8.1.1 ([41d87eb](https://github.com/wmfs/tymly-express-plugin/commit/41d87eb10b2799b1487f5715dcb8f67f16f05c16))
+
 # [1.40.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.39.0...v1.40.0) (2020-07-16)
 
 
