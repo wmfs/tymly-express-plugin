@@ -1,3 +1,10 @@
+# [1.42.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.41.0...v1.42.0) (2020-08-17)
+
+
+### 🛠 Builds
+
+* **deps:** bump helmet from 3.23.3 to 4.1.0 ([c59fdc9](https://github.com/wmfs/tymly-express-plugin/commit/c59fdc97c04da49e8dccac8fb79f83e9e6b2de0e))
+
 # [1.41.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.40.0...v1.41.0) (2020-08-17)
 
 
