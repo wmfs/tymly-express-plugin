@@ -1,3 +1,14 @@
+# [1.43.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.42.0...v1.43.0) (2020-08-24)
+
+
+### 🛠 Builds
+
+* **deps:** bump axios from 0.19.2 to 0.20.0 ([386a424](https://github.com/wmfs/tymly-express-plugin/commit/386a424c3f4d4b04b611f9afbb98f5e26036faa1))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.154.0 to 1.156.0 ([47f869e](https://github.com/wmfs/tymly-express-plugin/commit/47f869e1bf53538222eef6a49fb919bf7263c4df))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.156.0 to 1.157.0 ([1197d03](https://github.com/wmfs/tymly-express-plugin/commit/1197d031fb43637cd85340260dd6397425083286))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-cardscript-plugin ([4d2627f](https://github.com/wmfs/tymly-express-plugin/commit/4d2627f9a613d60eb84b3ea5ca8d92dc3e747986))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-solr-plugin from 2.11.0 to 2.12.0 ([be67496](https://github.com/wmfs/tymly-express-plugin/commit/be67496506e53ed250579e46c22e71549623d8b6))
+
 # [1.42.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.41.0...v1.42.0) (2020-08-17)
 
 
