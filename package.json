@@ -48,7 +48,7 @@
     "nyc": "15.1.0",
     "safe-buffer": "5.2.1",
     "semantic-release": "17.2.1",
-    "standard": "14.3.4"
+    "standard": "15.0.0"
   },
   "scripts": {
     "lint": "standard",
