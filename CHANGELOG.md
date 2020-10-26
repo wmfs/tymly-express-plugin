@@ -1,3 +1,35 @@
+# [1.45.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.44.0...v1.45.0) (2020-10-26)
+
+
+### 🛠 Builds
+
+* **deps:** bump axios from 0.20.0 to 0.21.0 ([30968e9](https://github.com/wmfs/tymly-express-plugin/commit/30968e961f8f283251fdfd9c5ca83414e4b38561))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.160.0 to 1.162.0 ([c7f13d6](https://github.com/wmfs/tymly-express-plugin/commit/c7f13d67511adb2786de9d867a16c27cb3ac3b42))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.162.0 to 1.164.0 ([a398e59](https://github.com/wmfs/tymly-express-plugin/commit/a398e59e8c2624b2b5d6ad4633845bcc3df579e3))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.164.0 to 1.165.0 ([a42e257](https://github.com/wmfs/tymly-express-plugin/commit/a42e2575c96ff897473bb37b8b3a20f11715f608))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.165.0 to 1.166.0 ([52b33db](https://github.com/wmfs/tymly-express-plugin/commit/52b33dbb4426574924bd2284232d0f65e87098ab))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-cardscript-plugin ([f31d7de](https://github.com/wmfs/tymly-express-plugin/commit/f31d7debe028b9108f487d0e344099c30d70479d))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-solr-plugin from 2.13.0 to 2.14.0 ([368e4b4](https://github.com/wmfs/tymly-express-plugin/commit/368e4b47b775639b6cd8d5897afe50824af19dd4))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-solr-plugin from 2.14.0 to 2.15.0 ([8a29715](https://github.com/wmfs/tymly-express-plugin/commit/8a297157a98761a214eaf331aba9af1bfa630725))
+* **deps-dev:** bump codecov from 3.7.2 to 3.8.0 ([9d35e18](https://github.com/wmfs/tymly-express-plugin/commit/9d35e188ded97089ed6714db2fa89007744b2c6a))
+* **deps-dev:** bump mocha from 8.1.3 to 8.2.0 ([78e1b3f](https://github.com/wmfs/tymly-express-plugin/commit/78e1b3fdc2903a4d457e1fcd807bb52e51b3bfdf))
+* **deps-dev:** bump semantic-release from 17.1.1 to 17.1.2 ([7d04309](https://github.com/wmfs/tymly-express-plugin/commit/7d04309241809edaa90cf11c3025b38aa24fd04e))
+* **deps-dev:** bump semantic-release from 17.1.2 to 17.2.0 ([0a9bab4](https://github.com/wmfs/tymly-express-plugin/commit/0a9bab461aa2c3ee9f8619f3351d4b07b1db55d3))
+* **deps-dev:** bump semantic-release from 17.2.0 to 17.2.1 ([476fcc6](https://github.com/wmfs/tymly-express-plugin/commit/476fcc630587f77e35d36c89ca3310a2e49fea8f))
+* **deps-dev:** bump standard from 14.3.4 to 15.0.0 ([7f4edb4](https://github.com/wmfs/tymly-express-plugin/commit/7f4edb45455b3cbcec4f812d29e27e75c0f9670d))
+
+
+### 📦 Code Refactoring
+
+* remove standard from npm test script [skip ci] ([673eba2](https://github.com/wmfs/tymly-express-plugin/commit/673eba2f905c21959d55f03009f641a52c1d52a9))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** authenticate Docker image pull [ch2767] ([9d6ac1e](https://github.com/wmfs/tymly-express-plugin/commit/9d6ac1e2e4e24ab22d4b1ed0f3627a2e595d1609))
+* **circle:** cache dependencies [ch2770] ([b6d1635](https://github.com/wmfs/tymly-express-plugin/commit/b6d16356f942377106fd28d98e1dff1e8779ec11))
+* **circle:** separate lint job [ch1009] ([73cdee3](https://github.com/wmfs/tymly-express-plugin/commit/73cdee331dfd51dfef07697152244d06c866754d))
+
 # [1.44.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.43.0...v1.44.0) (2020-09-28)
 
 
