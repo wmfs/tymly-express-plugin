@@ -47,7 +47,7 @@
     "mocha": "8.2.1",
     "nyc": "15.1.0",
     "safe-buffer": "5.2.1",
-    "semantic-release": "17.2.4",
+    "semantic-release": "17.3.0",
     "standard": "16.0.3"
   },
   "scripts": {
