@@ -1,3 +1,10 @@
+# [1.48.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.47.0...v1.48.0) (2021-01-05)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@hapi](https://github.com/hapi)/boom from 9.1.0 to 9.1.1 ([f81c567](https://github.com/wmfs/tymly-express-plugin/commit/f81c567f790a333f5b51348eff60bb557fe17290))
+
 # [1.47.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.46.0...v1.47.0) (2021-01-05)
 
 
