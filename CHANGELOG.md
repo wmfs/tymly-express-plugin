@@ -1,3 +1,12 @@
+# [1.47.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.46.0...v1.47.0) (2021-01-05)
+
+
+### 🛠 Builds
+
+* **deps:** bump debug from 4.2.0 to 4.3.1 ([d8ffce4](https://github.com/wmfs/tymly-express-plugin/commit/d8ffce4a4e9a109bd85a8aea1d894ff4411da6e0))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-rest-client-plugin from 1.8.0 to 1.9.0 ([bd1e753](https://github.com/wmfs/tymly-express-plugin/commit/bd1e75363cb76d4edbc3a87c4d29f356b0528133))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-solr-plugin from 2.17.1 to 2.18.0 ([223de87](https://github.com/wmfs/tymly-express-plugin/commit/223de87a82393c755bb5ffc29db5c4b523e8f572))
+
 # [1.46.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.45.0...v1.46.0) (2021-01-05)
 
 
