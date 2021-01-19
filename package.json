@@ -37,7 +37,7 @@
     "@semantic-release/exec": "5.0.0",
     "@wmfs/tymly": "1.184.0",
     "@wmfs/tymly-rbac-plugin": "1.18.1",
-    "@wmfs/tymly-rest-client-plugin": "1.9.0",
+    "@wmfs/tymly-rest-client-plugin": "1.10.0",
     "@wmfs/tymly-solr-plugin": "2.19.0",
     "@wmfs/tymly-cardscript-plugin": "1.25.0",
     "chai": "4.2.0",
