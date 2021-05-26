@@ -1,3 +1,37 @@
+# [1.53.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.52.0...v1.53.0) (2021-05-26)
+
+
+### 🛠 Builds
+
+* **deps:** bump helmet from 4.4.1 to 4.6.0 ([300ef01](https://github.com/wmfs/tymly-express-plugin/commit/300ef019b0953c36988d66bd308af8b4493d369c))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.192.0 to 1.193.0 ([3b01d5a](https://github.com/wmfs/tymly-express-plugin/commit/3b01d5a94161be209496a3f4f3851b299c888401))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.193.0 to 1.194.0 ([c912fbf](https://github.com/wmfs/tymly-express-plugin/commit/c912fbf6cfd7dafa31b61aaaadc0a599c3badad7))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.194.0 to 1.195.0 ([3ef7112](https://github.com/wmfs/tymly-express-plugin/commit/3ef7112281abd62f3a0ea43bda1fa21ad92bc7ee))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.195.0 to 1.195.1 ([0a58f3e](https://github.com/wmfs/tymly-express-plugin/commit/0a58f3ea982892cbdc0af187176f0b088cb9cc00))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.195.1 to 1.196.0 ([acecbe9](https://github.com/wmfs/tymly-express-plugin/commit/acecbe97834441acb447f9a909ab039c68f7f133))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.196.0 to 1.197.0 ([1f2caf2](https://github.com/wmfs/tymly-express-plugin/commit/1f2caf23e3b4e4d05bfe6dc068ac6550918480df))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.197.0 to 1.198.0 ([de05410](https://github.com/wmfs/tymly-express-plugin/commit/de054102503778d36e07371145beca85f4113d9d))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.198.0 to 1.199.0 ([ae29c4f](https://github.com/wmfs/tymly-express-plugin/commit/ae29c4f77a3ef26f10c485eb77aa9ee909d15c90))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.199.0 to 1.200.0 ([72b478f](https://github.com/wmfs/tymly-express-plugin/commit/72b478f188ea169b17953d08e018f52453f265c1))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.200.0 to 1.201.0 ([ada305b](https://github.com/wmfs/tymly-express-plugin/commit/ada305b9e3a0c721c8c55a90efc66c54e520c2a6))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.201.0 to 1.202.0 ([94f6af4](https://github.com/wmfs/tymly-express-plugin/commit/94f6af4d0ced40ae61f6d70853a9b682fd7a02a7))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.202.0 to 1.203.0 ([bd823ae](https://github.com/wmfs/tymly-express-plugin/commit/bd823ae497671d510f9721ff5662cc3c90b38014))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.203.0 to 1.204.0 ([b6a9efd](https://github.com/wmfs/tymly-express-plugin/commit/b6a9efd8c6aa0238d8be32d4a84224eadc602892))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.204.0 to 1.205.0 ([a3e69af](https://github.com/wmfs/tymly-express-plugin/commit/a3e69af51cc4eaeb33eea425776cb7f9ea8d4d41))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.205.0 to 1.206.0 ([f0d10bb](https://github.com/wmfs/tymly-express-plugin/commit/f0d10bbc9cd4ed0f3741c9beb3cb7501fbb1e23e))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-cardscript-plugin ([a1c1293](https://github.com/wmfs/tymly-express-plugin/commit/a1c12932daa8acbdb3d642b7f8d611c8180953a3))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-cardscript-plugin ([f69bc06](https://github.com/wmfs/tymly-express-plugin/commit/f69bc065b287d76d6019dde0f2274ed72a6e8527))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-cardscript-plugin ([cb5568f](https://github.com/wmfs/tymly-express-plugin/commit/cb5568f052f01488c793a9c1d11125cb8192a3ac))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-cardscript-plugin ([c38482e](https://github.com/wmfs/tymly-express-plugin/commit/c38482e96cd7e2d7929132a541787081a2192d13))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-rest-client-plugin ([bf7d10c](https://github.com/wmfs/tymly-express-plugin/commit/bf7d10c1f4fee2e5263219611991a166f7dc2fbd))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-rest-client-plugin ([999490b](https://github.com/wmfs/tymly-express-plugin/commit/999490b85cc8a7457f87a81753a551e425c05046))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-rest-client-plugin ([04b8026](https://github.com/wmfs/tymly-express-plugin/commit/04b80260b8a316d7a5b5f9fd1b65f1bf695765d5))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-solr-plugin from 2.22.0 to 2.23.0 ([6d046a6](https://github.com/wmfs/tymly-express-plugin/commit/6d046a6b1b522f79a803518d324ac09dadc1bd17))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly-solr-plugin from 2.23.0 to 2.24.0 ([91096ec](https://github.com/wmfs/tymly-express-plugin/commit/91096ec4ceef67ead820aa70194ff5a17425e1a4))
+* **deps-dev:** bump codecov from 3.8.1 to 3.8.2 ([799d748](https://github.com/wmfs/tymly-express-plugin/commit/799d7487fde3fed71b1da64571168cc12e99f06f))
+* **deps-dev:** bump mocha from 8.3.2 to 8.4.0 ([4ebb2b1](https://github.com/wmfs/tymly-express-plugin/commit/4ebb2b13d91ce609ea84c89c4a70b0b38c7f3803))
+* **deps-dev:** bump semantic-release from 17.4.2 to 17.4.3 ([0df28e8](https://github.com/wmfs/tymly-express-plugin/commit/0df28e86d2f1fbd5ddef9d82dc0db9ab707ebe8c))
+
 # [1.52.0](https://github.com/wmfs/tymly-express-plugin/compare/v1.51.0...v1.52.0) (2021-03-17)
 
 
